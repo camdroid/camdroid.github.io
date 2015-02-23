@@ -11,6 +11,7 @@ class PagesController < ApplicationController
 	end
 
 	def SplatterGunPrototype
+		puts "Hi SplatterGun!"
 	end
 
 end
